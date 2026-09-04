@@ -3,8 +3,8 @@ class WhereAreWe < Formula
 
   desc "Index a codebase into a map an agent can read instead of grepping"
   homepage "https://github.com/ngavrish/where-are-we"
-  url "https://files.pythonhosted.org/packages/99/55/be9d07641e907d3469bb2401a1e08f298e717745b0dfc3bfaa5eef462c69/where_are_we-0.12.3.tar.gz"
-  sha256 "5e66297c85a19baeec722cde425309cbaf14cb13cdcaf50da4e52fa44127d01a"
+  url "https://files.pythonhosted.org/packages/8c/e2/822e8d4417266843faa53d27fbf84ca9deec7f1f428d36452703c668cd77/where_are_we-1.0.0.tar.gz"
+  sha256 "f36ad83dd070ac53a777d5dfa67c2c9771c45bae7b6184aaac8497bd046552c6"
   license "MIT"
 
   depends_on "python@3.12"
